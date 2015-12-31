@@ -17,5 +17,5 @@ class NavbarController {
   }
 }
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .controller('NavbarController', NavbarController);

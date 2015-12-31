@@ -30,7 +30,7 @@ class MainController {
   }
 }
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .controller('MainController', MainController);
 
 })();

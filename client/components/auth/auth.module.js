@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('workspaceApp.auth', [
-  'workspaceApp.constants',
-  'workspaceApp.util',
+angular.module('qwirkleApp.auth', [
+  'qwirkleApp.constants',
+  'qwirkleApp.util',
   'ngCookies',
   'ui.router'
 ])

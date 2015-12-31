@@ -26,7 +26,7 @@ function authInterceptor($rootScope, $q, $cookies, $injector, Util) {
   };
 }
 
-angular.module('workspaceApp.auth')
+angular.module('qwirkleApp.auth')
   .factory('authInterceptor', authInterceptor);
 
 })();

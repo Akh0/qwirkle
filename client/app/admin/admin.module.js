@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('workspaceApp.admin', [
-  'workspaceApp.auth',
+angular.module('qwirkleApp.admin', [
+  'qwirkleApp.auth',
   'ui.router'
 ]);

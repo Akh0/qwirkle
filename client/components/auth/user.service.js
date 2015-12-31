@@ -21,7 +21,7 @@ function UserResource($resource) {
   });
 }
 
-angular.module('workspaceApp.auth')
+angular.module('qwirkleApp.auth')
   .factory('User', UserResource);
 
 })();

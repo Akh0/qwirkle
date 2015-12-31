@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .factory('Modal', function ($rootScope, $modal) {
     /**
      * Opens a modal

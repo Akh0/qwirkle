@@ -39,5 +39,5 @@ class SignupController {
   }
 }
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .controller('SignupController', SignupController);

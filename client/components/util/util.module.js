@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('workspaceApp.util', []);
+angular.module('qwirkleApp.util', []);

@@ -14,7 +14,7 @@ class AdminController {
   }
 }
 
-angular.module('workspaceApp.admin')
+angular.module('qwirkleApp.admin')
   .controller('AdminController', AdminController);
 
 })();

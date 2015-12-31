@@ -31,5 +31,5 @@ class LoginController {
   }
 }
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .controller('LoginController', LoginController);

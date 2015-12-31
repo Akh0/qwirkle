@@ -27,5 +27,5 @@ class SettingsController {
   }
 }
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .controller('SettingsController', SettingsController);

@@ -1,7 +1,7 @@
 (function(angular, undefined) {
 'use strict';
 
-angular.module('workspaceApp.constants', [])
+angular.module('qwirkleApp.constants', [])
 
 .constant('appConfig', {userRoles:['guest','user','admin']})
 

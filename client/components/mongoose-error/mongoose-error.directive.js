@@ -3,7 +3,7 @@
 /**
  * Removes server error when user updates input
  */
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .directive('mongooseError', function() {
     return {
       restrict: 'A',

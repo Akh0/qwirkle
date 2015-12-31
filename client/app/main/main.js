@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .config(function($stateProvider) {
     $stateProvider
       .state('main', {

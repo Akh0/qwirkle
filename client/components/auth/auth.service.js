@@ -183,7 +183,7 @@ function AuthService($location, $http, $cookies, $q, appConfig, Util, User) {
   return Auth;
 }
 
-angular.module('workspaceApp.auth')
+angular.module('qwirkleApp.auth')
   .factory('Auth', AuthService);
 
 })();

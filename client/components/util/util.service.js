@@ -53,7 +53,7 @@ function UtilService($window) {
   return Util;
 }
 
-angular.module('workspaceApp.util')
+angular.module('qwirkleApp.util')
   .factory('Util', UtilService);
 
 })();

@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('workspaceApp')
+angular.module('qwirkleApp')
   .directive('footer', function () {
     return {
       templateUrl: 'components/footer/footer.html',
